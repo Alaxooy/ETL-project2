@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+pymysql
+python-dotenv
+faker
+click
+pytest
+fastapi
+uvicorn
